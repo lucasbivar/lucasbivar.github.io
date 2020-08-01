@@ -3,7 +3,7 @@
 
 ## 📢 Some informations
 
-- Made with Flutter.
+- Made with Flutter Web.
 - The site is not yet responsive.
  
 ***
