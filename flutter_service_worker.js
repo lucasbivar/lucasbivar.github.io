@@ -19,12 +19,12 @@ const RESOURCES = {
 "assets/fonts/Montserrat-Regular.ttf": "ee6539921d713482b8ccd4d0d23961bb",
 "assets/NOTICES": "53597e0b7f3e4bbe237939e3a037493c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"favicon.png": "d7e552cc0d67c6a69f58e3857734b466",
+"icons/Icon-192.png": "4d74860a57d8e17b7e307baebfa02815",
+"icons/Icon-512.png": "5f89ca2481121d75d3cbd52507d62004",
 "index.html": "3831753b43aa992bd4de355a2df49eed",
 "/": "3831753b43aa992bd4de355a2df49eed",
-"main.dart.js": "59b9b437e1f83804dc6d2ad4d7a3b310",
+"main.dart.js": "b73a33f5cdd3d507a5baafca9d2d05b7",
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210"
 };
 
